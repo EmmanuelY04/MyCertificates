@@ -28,4 +28,14 @@ This repository contains a collection of my certifications from various online t
 - **Skills:** Network Security, Threat Detection & Mitigation, Cyber Risk Analysis
 - **Certificate:** [View Certificate](https://github.com/EmmanuelY04/MyCertificates/blob/main/SpringPod-Fujitsu-CyberSecurity.pdf)
 
+### 6. IBM CIC UK & UoL Hackathon (Finalist)
+- **Date Issued:** March 2024
+- **Skills:** Hackathon Project Development, Problem Solving, Team Collaboration, Presentation Skills
+- **Certificate:** [View Certificate](https://github.com/EmmanuelY04/MyCertificates/blob/main/IBM%20Hackathon%20Certificate.png)
+
+### 7. Young Professionals Program
+- **Date Issued:** Summer 2021
+- **Skills:** Professional Development, Workplace Communication, Career Growth Strategies
+- **Certificate:** [View Certificate](https://github.com/EmmanuelY04/MyCertificates/blob/main/Young%20Professionals%20Certificate.pdf)
+
 ---
